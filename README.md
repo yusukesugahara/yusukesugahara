@@ -18,14 +18,9 @@ Description of the project. What it does, main features, and technologies used.
 - [Qiita](https://qiita.com/sghr2020)
 - [x](https://x.com/yusuke_datas)
   
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=username&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
-## 4. プロフィールの装飾
+<img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 
-- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
-- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
 
-```markdown
-## Badges
-
-![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
+<img src="https://github-profile-trophy.vercel.app/?username=username&theme=juicyfresh&no-bg=true" />
