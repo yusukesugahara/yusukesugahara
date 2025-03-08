@@ -1,6 +1,6 @@
-# Hello, I'm John Doe! 👋
+# Hello, I'm yusuke sugahara! 👋
 
-I'm a software developer passionate about open-source projects and web development.
+I am a web engineer proficient in both front-end and back-end development.
 
 ## Skills
 
