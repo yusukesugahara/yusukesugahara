@@ -7,7 +7,7 @@ I am a web engineer proficient in both front-end and back-end development.
 
 - **Languages**: JavaScript, Python, Html, Css
 - **Frameworks**: React, Next.js, Node.js, Express.js,
-- **Tools**: Git, Docker, VS Code, cursor, vercel, spotlight
+- **Tools**: Git, Docker, VS Code, cursor, vercel, spotlight, Figma
 
 ## Projects
 
