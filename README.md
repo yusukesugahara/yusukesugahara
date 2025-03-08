@@ -18,6 +18,12 @@ Description of the project. What it does, main features, and technologies used.
 - [Qiita](https://qiita.com/sghr2020)
 - [x](https://x.com/yusuke_datas)
   
+
+## 4. プロフィールの装飾
+
+- **バッジ**: Shields.ioを使ってバッジを追加し、スキルやステータスを表示できます。
+- **GIF**: 楽しいアニメーションや画像を追加して、プロフィールを魅力的に見せましょう。
+
 ```markdown
 ## Badges
 
