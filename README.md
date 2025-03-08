@@ -18,4 +18,8 @@ Description of the project. What it does, main features, and technologies used.
 - [Qiita](https://qiita.com/sghr2020)
 - [x](https://x.com/yusuke_datas)
   
-https://qiita.com/sghr2020
+```markdown
+## Badges
+
+![GitHub followers](https://img.shields.io/github/followers/username?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/username?style=social)
