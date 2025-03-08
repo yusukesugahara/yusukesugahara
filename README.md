@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm John Doe! 👋
 
-<!--
-**yusukesugahara/yusukesugahara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about open-source projects and web development.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, Html, Css
+- **Frameworks**: React, Next.js, Node.js, Express.js,
+- **Tools**: Git, Docker, VS Code, cursor, vercel, spotlight
+
+## Projects
+
+### [Project Name](https://github.com/username/project)
+Description of the project. What it does, main features, and technologies used.
+
+## Connect with me
+
+- [Qiita](https://qiita.com/sghr2020)
+- [x](https://x.com/yusuke_datas)
+  
+https://qiita.com/sghr2020
