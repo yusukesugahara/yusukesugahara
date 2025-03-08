@@ -3,6 +3,7 @@
 I am a web engineer proficient in both front-end and back-end development.
 
 ## Skills
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,react,typescript,nodejs,express,mongodb,git,github,docker,ubuntu,vercel,vscode,figma)
 
 - **Languages**: JavaScript, Python, Html, Css
 - **Frameworks**: React, Next.js, Node.js, Express.js,
