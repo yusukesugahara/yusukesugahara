@@ -22,7 +22,7 @@ I have experience in both front-end and back-end development, including rebuildi
 
 ## 🛠️ Tech Stack
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,nestjs,mysql,postgres,mongodb,aws,docker,terraform,git,github,ubuntu,vercel,vscode,figma)
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,nestjs,mysql,postgres,mongodb,aws,docker,terraform,git,github,ubuntu,vercel,vscode,figma)
 
 ### Languages
 - JavaScript
@@ -39,7 +39,7 @@ I have experience in both front-end and back-end development, including rebuildi
 
 ### Backend
 - Node.js
-- Express.js
+- Lamda
 - NestJS
 - REST API
 - Authentication / Authorization
@@ -59,23 +59,6 @@ I have experience in both front-end and back-end development, including rebuildi
 - VS Code
 - Cursor
 - Figma
-
----
-
-## 🚀 Featured Projects
-
-### [reactdojou](https://github.com/yusukesugahara/reactdojou)
-
-Reactdojou is a learning platform that provides React-focused coding challenges and exercises.
-
-It helps developers improve their understanding of React through hands-on practice, including component design, state management, hooks, and practical UI implementation.
-
-**Tech Stack**
-
-- React
-- TypeScript
-- Next.js
-- Tailwind CSS
 
 ---
 
