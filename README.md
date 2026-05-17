@@ -79,13 +79,6 @@ It helps developers improve their understanding of React through hands-on practi
 
 ---
 
-## 📫 Connect with Me
-
-- [Qiita](https://qiita.com/sghr2020)
-- [X](https://x.com/yusuke_datas)
-
----
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusukesugahara&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
