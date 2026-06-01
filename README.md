@@ -77,10 +77,9 @@ I have experience in both front-end and back-end development, including migratin
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=yusukesugahara&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=yusukesugahara&show_icons=true&locale=en&theme=chartreuse-dark" alt="GitHub Stats" width="410" />
+I regularly build and improve web applications using **Next.js**, **React**, **TypeScript**, **NestJS**, and **AWS**.
 
-<img src="https://github-profile-trophy.vercel.app/?username=yusukesugahara&theme=juicyfresh&no-bg=true" />
+You can find my projects and development activity in the repositories below.
