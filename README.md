@@ -10,8 +10,8 @@ Webエンジニアとして、**Next.js**、**React**、**TypeScript**、**NestJ
 
 ## 🧑‍💻 About Me
 
-- 💻 フロントエンド・バックエンドの両方に対応するWebエンジニア
-- ⚛️ 主に **React / Next.js / TypeScript** を用いたフロントエンド実務経験があります
+- 💻 フロントエンド・バックエンドの両方に対応するWebエンジニアです
+- ⚛️ **React / Next.js / TypeScript** を用いたフロントエンド開発の実務経験があります
 - 🛠️ **NestJS / Node.js / TypeScript** を用いたバックエンド実装経験があります
 - 🗄️ **MySQL / PostgreSQL** を用いた開発経験があります
 - ☁️ **AWS / Docker / Terraform** などを用いたクラウド・インフラ領域の経験があります
@@ -73,8 +73,10 @@ Webエンジニアとして、**Next.js**、**React**、**TypeScript**、**NestJ
 
 市役所・自治体における補助金申請、施設利用申請、各種届出などの業務を想定し、申請フォームの作成から、申請、承認、差し戻し、再提出、CSV出力、監査ログ確認までを一貫して管理できるアプリとして開発しています。
 
-特徴は、ログインアカウントを持たない外部ユーザーでも申請できる点です。  
+特徴は、**ログインアカウントを持たない外部ユーザーでも申請できる点**です。  
 職員や管理者向けの業務管理だけでなく、住民や事業者などの申請者側の利用ハードルを下げることを意識して設計しています。
+
+このプロジェクトでは、単なるフォーム送信ではなく、実際の業務で必要になる **「誰が承認するか」**、**「どの項目を修正してほしいか」**、**「誰がいつ操作したか」** まで管理できることを重視しています。
 
 #### 主な機能
 
@@ -91,19 +93,25 @@ Webエンジニアとして、**Next.js**、**React**、**TypeScript**、**NestJ
 
 - **Frontend**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
 - **Backend**: NestJS, TypeScript
-- **Database**: MySQL
+- **Database**: PostgreSQL
 - **API**: REST API, OpenAPI
-- **Infrastructure / Tools**: Docker, GitHub
+- **Infrastructure / Tools**: Docker, GitHub, Vercel
 
-このプロジェクトでは、単なるフォーム送信ではなく、実際の業務で必要になる「誰が承認するか」「どの項目を修正してほしいか」「誰がいつ操作したか」まで管理できることを重視しています。
+#### デモ環境
 
-### デモ環境
+以下のURLからデモ環境を確認できます。
 
 https://review-flow-frontend.vercel.app/login
 
-下記のアカウントでログイン
-admin@reviewflow.demo / Password123!
-※自由に操作してください。
+デモ用アカウント：
+
+```txt
+Email: admin@reviewflow.demo
+Password: Password123!
+```
+
+※ デモ環境のため、自由に操作していただいて問題ありません。
+
 ---
 
 ## 📌 What I Focus On
@@ -119,6 +127,6 @@ admin@reviewflow.demo / Password123!
 
 ## 📊 GitHub Activity
 
-**Next.js**、**React**、**TypeScript**、**NestJS**、**AWS** などを用いて、Webアプリケーションの開発・改善に継続的に取り組んでいます。
+**Next.js**、**React**、**TypeScript**、**NestJS** などを用いて、Webアプリケーションの開発・改善に継続的に取り組んでいます。
 
 以下のリポジトリでは、これまでに作成したプロジェクトや開発の取り組みをご覧いただけます。
