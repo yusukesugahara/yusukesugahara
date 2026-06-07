@@ -1,28 +1,27 @@
 ![](https://komarev.com/ghpvc/?username=yusukesugahara)
 
-# Hi, I'm Yusuke Sugahara 👋
+# こんにちは、Yusuke Sugaharaです 👋
 
-I am a Web Engineer based in Japan, focused on building practical web applications with **Next.js**, **React**, **TypeScript**, **NestJS**, and **AWS**.
+Webエンジニアとして、**Next.js**、**React**、**TypeScript**、**NestJS**、**AWS** などを用いたWebアプリケーション開発に取り組んでいます。
 
-I have experience in both front-end and back-end development, including migrating legacy/serverless systems, improving database performance, implementing authentication flows, and developing operational tools for real business use cases.
+単に機能を実装するだけでなく、顧客や利用者が抱える課題を理解し、業務の効率化や使いやすさの向上につながる開発を大切にしています。
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 💻 Web Engineer specializing in **front-end and back-end development**
-- ⚛️ Mainly working with **React / Next.js / TypeScript**
-- 🛠️ Building backend APIs with **NestJS / Node.js**
-- 🗄️ Experienced with **MySQL / PostgreSQL / MongoDB**
-- ☁️ Interested in cloud infrastructure using **AWS / Docker / Terraform**
-- 🚀 Currently improving my skills in **system design**, **backend architecture**, and **production-ready web application development**
-- 🧠 I enjoy solving real-world business problems through software
+- 💻 フロントエンド・バックエンドの両方に対応するWebエンジニア
+- ⚛️ 主に **React / Next.js / TypeScript** を用いたフロントエンド実務経験があります
+- 🛠️ **NestJS / Node.js / TypeScript** を用いたバックエンド実装経験があります
+- 🗄️ **MySQL / PostgreSQL** を用いた開発経験があります
+- ☁️ **AWS / Docker / Terraform** などを用いたクラウド・インフラ領域の経験があります
+- 🧠 顧客や利用者の課題を理解し、ソフトウェアを通じて業務改善や価値提供につなげることを大切にしています
 
 ---
 
 ## 🛠️ Tech Stack
 
-![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,nestjs,mysql,postgres,mongodb,aws,docker,terraform,git,github,ubuntu,vercel,vscode,figma)
+![](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,nestjs,mysql,postgres,aws,docker,terraform,git,github,ubuntu,vercel,vscode,figma)
 
 ### Languages
 
@@ -52,7 +51,6 @@ I have experience in both front-end and back-end development, including migratin
 
 - MySQL
 - PostgreSQL
-- MongoDB
 
 ### Infrastructure / Tools
 
@@ -67,19 +65,59 @@ I have experience in both front-end and back-end development, including migratin
 
 ---
 
+## 🚀 Featured Portfolio
+
+### ReviewFlow
+
+**ReviewFlow** は、外部ユーザーからの申請受付に対応した、申請・承認ワークフロー管理アプリです。
+
+市役所・自治体における補助金申請、施設利用申請、各種届出などの業務を想定し、申請フォームの作成から、申請、承認、差し戻し、再提出、CSV出力、監査ログ確認までを一貫して管理できるアプリとして開発しています。
+
+特徴は、ログインアカウントを持たない外部ユーザーでも申請できる点です。  
+職員や管理者向けの業務管理だけでなく、住民や事業者などの申請者側の利用ハードルを下げることを意識して設計しています。
+
+#### 主な機能
+
+- 外部ユーザーからの申請受付
+- 申請フォームの作成・管理
+- 承認フローの設定
+- 申請内容の確認・承認・差し戻し・却下
+- 差し戻し後の再提出
+- CSV出力
+- 操作履歴を確認できる監査ログ
+- スペースごとの申請・承認管理
+
+#### 使用技術
+
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS, shadcn/ui
+- **Backend**: NestJS, TypeScript
+- **Database**: MySQL
+- **API**: REST API, OpenAPI
+- **Infrastructure / Tools**: Docker, GitHub
+
+このプロジェクトでは、単なるフォーム送信ではなく、実際の業務で必要になる「誰が承認するか」「どの項目を修正してほしいか」「誰がいつ操作したか」まで管理できることを重視しています。
+
+### デモ環境
+https://review-flow-frontend.vercel.app/login
+
+下記のアカウントでログイン
+admin@reviewflow.demo / Password123!
+※自由に操作してください。
+---
+
 ## 📌 What I Focus On
 
-- Designing maintainable backend architecture
-- Improving performance and reliability of existing systems
-- Building user-friendly web applications
-- Developing tools that solve real business and operational problems
-- Writing clean, readable, and scalable code
+- 顧客や利用者の課題を理解したうえでの開発
+- 業務効率化や運用改善につながるWebアプリケーションの開発
+- 保守しやすいバックエンドアーキテクチャの設計
+- 既存システムのパフォーマンス・信頼性改善
+- ユーザーにとって使いやすいUI・機能設計
+- 読みやすく、拡張しやすく、保守しやすいコードを書くこと
 
 ---
 
-
 ## 📊 GitHub Activity
 
-I regularly build and improve web applications using **Next.js**, **React**, **TypeScript**, **NestJS**, and **AWS**.
+**Next.js**、**React**、**TypeScript**、**NestJS**、**AWS** などを用いて、Webアプリケーションの開発・改善に継続的に取り組んでいます。
 
-You can find my projects and development activity in the repositories below.
+以下のリポジトリでは、これまでに作成したプロジェクトや開発の取り組みをご覧いただけます。
